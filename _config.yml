@@ -1,5 +1,17 @@
 title: Alchemy Chemistry
-description: Free chemistry handouts
+description: Free handouts for curious minds
 theme: just-the-docs
 
-url: https://shamp-0.github.io/Alchemy-Chemistry
+math: mathjax
+compress_html:
+  blanklines: true
+
+url: https://shamp-0.github.io/alchemy
+
+color_scheme: dark
+
+footer_content: "Copyright &copy; 2026 Shannon Imaoka. Distributed by <a href=\"https://creativecommons.org/licenses/by-nc/4.0/deed.en\">CC-BY-NC license</a>"
+
+aux_links:
+  YouTube Channel: 
+    - http://www.youtube.com/@shannonimaoka
