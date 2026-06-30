@@ -1,7 +1,7 @@
 ---
 title: Stoichiometry
 layout: default
-parent: Unit 1: Stoichiometry
+parent: "Unit 1: Stoichiometry"
 nav_order: 1
 ---
 
